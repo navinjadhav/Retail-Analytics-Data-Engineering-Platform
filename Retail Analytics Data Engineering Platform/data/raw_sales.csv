@@ -1,0 +1,7 @@
+
+order_id,order_date,customer_id,product,category,quantity,price
+1,2024-01-01,C001,Laptop,Electronics,1,50000
+2,2024-01-01,C002,Mouse,Electronics,2,500
+3,2024-01-02,C003,Keyboard,Electronics,,1500
+4,2024-01-02,C001,Laptop,Electronics,1,50000
+4,2024-01-02,C001,Laptop,Electronics,1,50000
